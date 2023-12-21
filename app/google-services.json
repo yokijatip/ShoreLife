@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "54940516065",
+    "project_id": "shore-life-33998",
+    "storage_bucket": "shore-life-33998.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54940516065:android:37f4a87d53f63086af41a0",
+        "android_client_info": {
+          "package_name": "com.example.capstone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp26CxbIV80L_Q-q_npClVD1w5-UxkinY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54940516065:android:dd146a5da2e545afaf41a0",
+        "android_client_info": {
+          "package_name": "com.hamnug.shorelife"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp26CxbIV80L_Q-q_npClVD1w5-UxkinY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
