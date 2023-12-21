@@ -20,6 +20,8 @@ class FactAdapter : RecyclerView.Adapter<FactAdapter.ViewHolder>() {
         notifyDataSetChanged()
     }
 
+    // lorem iopsumn ahdaikosjdhas asdkjashkdjahskjdbaskjbdjasbyd hagbdsa
+
     inner class ViewHolder(private val binding: ListFactBinding) :
         RecyclerView.ViewHolder(binding.root) {
         fun bind(context: Context, item: ItemResponse) {
