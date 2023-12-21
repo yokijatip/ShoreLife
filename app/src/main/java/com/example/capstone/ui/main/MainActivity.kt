@@ -43,6 +43,9 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
+        val fragment = HomeFragment.instance()
+        replaceFragment(fragment)
+
     }
 
     private fun replaceFragment(fragment: Fragment) {
